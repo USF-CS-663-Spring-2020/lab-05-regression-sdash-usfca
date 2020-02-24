@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Sukirti Dash  
+**USF email address**:  sdash@dons.usfca.edu
